@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stack>
 using namespace std;
 
 void swap(int * a, int i, int j)
@@ -40,7 +41,7 @@ void quick_sort(int * a, int N)
 // ·ÇµÝ¹é
 void quick_sort_2(int * a, int N)
 {
-	stack<pair<int, int>> st;
+	stack<pair<int, int> > st;
 	st.push(make_pair(0, N - 1));
 	while (st.size())
 	{
