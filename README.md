@@ -16,7 +16,7 @@
 |  | 哈希表 | [hash.cpp](hash.cpp)|
 | 字符串 |
 |  | 字符串匹配-KMP | [kmp.cpp](./kmp.cpp)|
-|  | 字符串匹配-Sunday| [sunday.cpp](./sunday.cpp)|
+|  | 字符串匹配-Sunday| [sunday.cpp](./sunday.cpp)| √ |
 |  | 正则表达式 | [re.cpp](./re.cpp)|
 | 树 |
 |  | 二叉树遍历 | [tree_traversal.cpp](./tree_traversal.cpp)|
