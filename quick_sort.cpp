@@ -24,7 +24,7 @@ int partition(int * a, int low, int high)
 	return j;
 }
 
-// �ݹ�
+// 递归
 void qsort(int * a, int low, int high)
 {
 	if (high - low <= 0)return;
@@ -38,7 +38,7 @@ void quick_sort(int * a, int N)
 	return qsort(a, 0, N - 1);
 }
 
-// �ǵݹ�
+// 非递归
 void quick_sort_2(int * a, int N)
 {
 	stack<pair<int, int> > st;
