@@ -19,7 +19,7 @@
 |  | 字符串匹配-Sunday| [sunday.cpp](./sunday.cpp)| √ |
 |  | 正则表达式 | [re.cpp](./re.cpp)|
 | 树 |
-|  | 二叉树遍历 | [tree_traversal.cpp](./tree_traversal.cpp)|
+|  | 二叉树遍历 | [tree_traversal.cpp](./tree_traversal.cpp)| √ |
 |  | AVL | [avl.cpp](./avl.cpp)|
 |   | 红黑树 | [rbtree.cpp](./rbtree.cpp)|
 | 图 |
